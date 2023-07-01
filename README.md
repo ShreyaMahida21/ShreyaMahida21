@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Shreya Mahida</h1>
 <h3 align="center">A passionate in learning more about Data Science from India</h3>
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjo_fO00O3_AhXebmwGHVAoAQYQxiAoBHoECAAQHw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmelinachenani&docid=1L56jsTrfxkUwM&w=640&h=640&itg=1&q=coding%20image%20gif&ved=2ahUKEwjo_fO00O3_AhXebmwGHVAoAQYQxiAoBHoECAAQHw " alt="image"/>
+<img align="right" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" alt="image"/>
 
 - 🌱 I’m currently learning **Data Science Expertise and Machine Learning Foundations Courses.**
 
