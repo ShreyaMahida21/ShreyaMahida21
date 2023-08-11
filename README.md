@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate learner in data science and python from India</h3>
 <img align="right" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  width = "400" alt="image"/>
 
-- 🌱 I’m currently learning **Data Science Expertise and Machine Learning Foundations Courses.**
+- 🌱 I’m currently learning **Data Science and Machine Learning expertise. Also interested in Full stack development as well.**
 
 - 📫 How to reach me **shreyamahida14@gmail.com**
 
